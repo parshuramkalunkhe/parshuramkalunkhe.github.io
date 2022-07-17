@@ -138,9 +138,9 @@ li {
 .l-main {
   justify-content: space-between;
   display: flex;
-  height: 500px;
+  height: 800px;
   margin: auto;
-  width: 800px;
+  width: 900px;
   padding-top: 4rem;
 }
 

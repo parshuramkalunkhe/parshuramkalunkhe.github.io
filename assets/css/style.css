@@ -218,6 +218,8 @@ li {
     width: 100%;
     padding: 50px 0;
     height: 100px;
+    box-shadow: none;
+    border: none;
   }
 
   .l-nav span {

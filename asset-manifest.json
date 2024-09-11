@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/css/main.c92bb075.css",
-    "main.js": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/js/main.f34d5ca4.js",
+    "main.js": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/js/main.aab3c6e1.js",
     "static/media/yayy-happy.gif": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/media/yayy-happy.2588298c0fa32f275e88.gif",
     "static/media/resume.pdf": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/media/resume.8f9fb6b417891215fc56.pdf",
     "static/media/guts.jpg": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/media/guts.2f157f4fd414db62583c.jpg",
@@ -10,10 +10,10 @@
     "static/media/tux-devil.webp": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/media/tux-devil.8e32806863d2b13f564d.webp",
     "index.html": "/parshuramkalunkhe/parshuramkalunkhe.github.io/index.html",
     "main.c92bb075.css.map": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/css/main.c92bb075.css.map",
-    "main.f34d5ca4.js.map": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/js/main.f34d5ca4.js.map"
+    "main.aab3c6e1.js.map": "/parshuramkalunkhe/parshuramkalunkhe.github.io/static/js/main.aab3c6e1.js.map"
   },
   "entrypoints": [
     "static/css/main.c92bb075.css",
-    "static/js/main.f34d5ca4.js"
+    "static/js/main.aab3c6e1.js"
   ]
 }
